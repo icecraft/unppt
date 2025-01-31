@@ -36,6 +36,11 @@ or
 ```
 
 
+## TODOS
+  [ ] extract photos, such as bmp, jpg, png ...etc 
+  
+  [ ] extract audio and video 
+
 
 ## Metric
 
