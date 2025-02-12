@@ -44,8 +44,10 @@ or
 
 ## Metric
 
+CPU: intel i5-8400 CPU @ 2.80GHz
+
 | page count | time cost (second) | speed |
 | :--: | :--: | :--: | 
-| 20 | 0.166|  120 page/sec  | 
-| 183 |  7.0 |  26 page/sec  |
-| 260 | 2.69  |  96 page/sec |
+| 20  | 0.028  |   714 page/sec  | 
+| 183 |  0.163 |  1122 page/sec  |
+| 260 | 0.137  |  1897 page/sec |
